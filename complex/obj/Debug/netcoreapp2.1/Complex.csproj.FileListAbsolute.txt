@@ -1,0 +1,11 @@
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\obj\Debug\netcoreapp2.1\Complex.csprojAssemblyReference.cache
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\obj\Debug\netcoreapp2.1\Complex.csproj.CoreCompileInputs.cache
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\obj\Debug\netcoreapp2.1\Complex.AssemblyInfoInputs.cache
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\obj\Debug\netcoreapp2.1\Complex.AssemblyInfo.cs
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\bin\Debug\netcoreapp2.1\Complex.deps.json
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\bin\Debug\netcoreapp2.1\Complex.runtimeconfig.json
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\bin\Debug\netcoreapp2.1\Complex.runtimeconfig.dev.json
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\bin\Debug\netcoreapp2.1\Complex.dll
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\bin\Debug\netcoreapp2.1\Complex.pdb
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\obj\Debug\netcoreapp2.1\Complex.dll
+C:\Users\CommercePromote\Documents\beva\Learning-C-\complex\obj\Debug\netcoreapp2.1\Complex.pdb

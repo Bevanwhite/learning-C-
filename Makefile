@@ -1,6 +1,6 @@
 
 testapi:
-	cd CompanyEmployees && dotnet run
+	cd ${name} && dotnet run
 
 testnew:
 	dotnet new console -n ${name}

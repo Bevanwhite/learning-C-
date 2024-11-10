@@ -1,6 +1,6 @@
 
-test:
-	cd ${name} && dotnet run
+testapi:
+	cd CompanyEmployees && dotnet run
 
 testnew:
 	dotnet new console -n ${name}
